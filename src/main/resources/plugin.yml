@@ -1,0 +1,3 @@
+name: DoctorDark-t3
+main: com.tenjava.entries.DoctorDark.t3.TenJava
+version: '${project.version}'
